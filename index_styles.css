@@ -1,0 +1,17 @@
+nav{
+    background-color: wheat;
+    border-width:10px;
+    border-bottom:ridge;
+    border-color:maroon
+}
+body{
+    padding-top: 100px;
+}
+#buttons{
+    width:300px;
+    display: flex;
+    justify-content: space-around;
+}
+#buttons button, img{
+    border-radius: 100%;
+}
