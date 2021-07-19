@@ -6,6 +6,15 @@ nav{
 }
 body{
     padding-top: 100px;
+    display: flex;
+    font-size: larger;
+    justify-content: center;
+}
+#flexSwitchCheckChecked{
+    height: 25px;
+    width: 60px;
+    margin-left: 0px;
+    margin-top: 10px;
 }
 #buttons{
     width:300px;
