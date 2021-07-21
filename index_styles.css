@@ -18,13 +18,12 @@ body{
 }
 
 #home{
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 350%;
 }
 #about{
     height: 100%;
     width: 100%;
-    display: inline;
 }
 #buttons{
     width:200px;
